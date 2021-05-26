@@ -1,5 +1,7 @@
 package learnGit;
 
 public class bug {
-        也许你不详细这是真的
+	public void sayBug(){
+		System.out.println("I am sorry ,this is a bug, 也许你不详细这是真的");
+	}
 }
